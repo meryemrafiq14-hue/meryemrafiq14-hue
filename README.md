@@ -1,4 +1,4 @@
-***Meryem Hassan Rafiq***
+**Meryem Hassan Rafiq**
 🎯 AI-Powered Analytics  
 📍 MS Business Analytics @ UIUC (GPA 3.71 / Dec 2026) · Champaign, IL  
 🔗 [linkedin.com/in/meryem-hassan-rafiq](https://linkedin.com/in/meryem-hassan-rafiq) · meryem.rafiq14@gmail.com  
