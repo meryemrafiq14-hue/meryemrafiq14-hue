@@ -51,6 +51,6 @@ My work usually sits where **data, UX, and AI** meet.
 
 - Finishing my **M.S. in Business Analytics @ UIUC Gies** (Dec 2026)  
 - Going deeper into **AI-powered analytics platforms, RAG/LLM apps, and decision intelligence**  
-- Open to **AI Data Analyst, Analytics Engineer, and BI Developer (AI/ML focus)** roles  
+- Looking for **AI Data Analyst, Analytics Engineer, and BI Developer (AI/ML focus)** roles  
 
 If you’re working on data + AI products and need someone who cares about both the models *and* the users, I’d love to connect.
